@@ -1,0 +1,15 @@
+2d0 30000 100 ! dt [fs], kmax, kout
+-0d0, 0d0, 11.05d0, 0d0, 64265d0 ! x0(1:2),p0(1:2), mass of Cl in m_e
+256 12d0 12d0  ! ncat, spacing, cell size  in A
+4.5d0 0.701d0 0.073d0 ! r0,eta,cf Morse params; atomic units
+
+
+# Na2Cl+ model --- p=11 is 300 K; p=6.38 is 100 K
+LJ + Coulomb pot V = eta*((sig/r)^12-(sig/r)^6)-cf/r
+6d0 1.5d0 1000d0 ! cation sig, eta, cf=coulomb coeff
+
+
+Na2Cl+ fit  
+
+define final time in ps, propagate in atomic units
+1 ps = 41341.37 a.u.

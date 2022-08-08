@@ -1,0 +1,716 @@
+Fitting with formula: y = -a0/x+a1*((a2/x)^12-(a2/x)^6)
+Initial guesses:
+	a0 = 1
+	a1 = 1
+	a2 = 1
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.277341
+	a1 = -192.056
+	a2 = -1.00313
+
+Chi-square: 0.0187876
+Correlation coefficient: 0.976952
+RMS relative error: 5.86581e+10
+Theil U coefficent: 0.219381
+Fitting with formula: y = -a0/x+a1/x^12-a2/x^6
+Initial guesses:
+	a0 = 0.277341
+	a1 = -192.056
+	a2 = -1.00313
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.254235
+	a1 = 13091.2
+	a2 = -161.105
+
+Chi-square: 0.0174963
+Correlation coefficient: 0.978201
+RMS relative error: 5.38228e+10
+Theil U coefficent: 0.211708
+Fitting with formula: y = -a0/x+a1/x^12-a2/x^6
+Initial guesses:
+	a0 = 0.254235
+	a1 = 10
+	a2 = 10
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.254235
+	a1 = 13091.2
+	a2 = -161.105
+
+Chi-square: 0.0174963
+Correlation coefficient: 0.978201
+RMS relative error: 5.38228e+10
+Theil U coefficent: 0.211708
+Fitting with formula: y = -a0/x
+Initial guesses:
+	a0 = 0.254235
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.126945
+
+Chi-square: 0.365718
+Correlation coefficient: 0.596876
+RMS relative error: 2.71025e+10
+Theil U coefficent: 0.967913
+Fitting with formula: y = -a0/x
+Initial guesses:
+	a0 = 1
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.126945
+
+Chi-square: 0.365718
+Correlation coefficient: 0.596876
+RMS relative error: 2.71025e+10
+Theil U coefficent: 0.967913
+Fitting with formula: y = -a0/x+a1/x^2
+Initial guesses:
+	a0 = -0.126945
+	a1 = 13091.2
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 1.02188
+	a1 = 4.64931
+
+Chi-square: 0.136741
+Correlation coefficient: 0.808567
+RMS relative error: 1.13152e+11
+Theil U coefficent: 0.591852
+Fitting with formula: y =a0*(exp(-a1*(x-a2))-exp(-2*a1*(x-a2)))
+Initial guesses:
+	a0 = 1.02188
+	a1 = 4.64931
+Tolerance = 0.0001
+Fvec is orthogonal to the columns of the jacobian to machine precision.
+Fitting with formula: y =a0*(exp(-a1*(x-a2))-exp(-2*a1*(x-a2)))
+Initial guesses:
+	a0 = 0.1
+	a1 = 1
+	a2 = 4
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.26982
+	a1 = 0.729075
+	a2 = 3.53203
+
+Chi-square: 0.000220969
+Correlation coefficient: 0.999746
+RMS relative error: 7.17344e+09
+Theil U coefficent: 0.0237919
+Fitting with formula: y =a0*(exp(-a1*(x-a2))-exp(-2*a1*(x-a2)))
+Initial guesses:
+	a0 = -0.26982
+	a1 = 0.729075
+	a2 = 3.53203
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.269544
+	a1 = 0.727695
+	a2 = 3.5328
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.32506e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-a1*(x-a2))-exp(-2*a1*(x-a2)))+a3
+Initial guesses:
+	a0 = -0.269544
+	a1 = 0.727695
+	a2 = 3.5328
+	a3 = 1
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.291955
+	a1 = 0.701265
+	a2 = 3.51834
+	a3 = 0.00436776
+
+Chi-square: 9.00846e-05
+Correlation coefficient: 0.999732
+RMS relative error: 2.32314e+08
+Theil U coefficent: 0.0229246
+Fitting with formula: y =a0*(exp(-a1*(x-a2))-exp(-2*a1*(x-a2)))+a3/x
+Initial guesses:
+	a0 = -0.291955
+	a1 = 0.701265
+	a2 = 3.51834
+	a3 = -0.00436776
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.311048
+	a1 = 0.696805
+	a2 = 3.48425
+	a3 = 0.0406563
+
+Chi-square: 0.000100671
+Correlation coefficient: 0.999701
+RMS relative error: 9.93214e+08
+Theil U coefficent: 0.0242343
+Fitting with formula: y =a0*(exp(-a1*(x-a2))-exp(-2*a1*(x-a2)))+a3
+Initial guesses:
+	a0 = -0.311048
+	a1 = 0.696805
+	a2 = 3.48425
+	a3 = 0.0406563
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.291956
+	a1 = 0.701265
+	a2 = 3.51834
+	a3 = 0.00436782
+
+Chi-square: 9.00846e-05
+Correlation coefficient: 0.999732
+RMS relative error: 2.32237e+08
+Theil U coefficent: 0.0229246
+Fitting with formula: y =a0*(exp(-a1*(x-a2))-exp(-2*a1*(x-a2)))
+Initial guesses:
+	a0 = -0.291956
+	a1 = 0.701265
+	a2 = 3.51834
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -0.269544
+	a1 = 0.727694
+	a2 = 3.5328
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.32511e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-2*a1*(x-a2))-2*exp(-a1*(x-a2)))
+Initial guesses:
+	a0 = 0.269544
+	a1 = 0.727694
+	a2 = 3.5328
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.0673861
+	a1 = 0.727694
+	a2 = 4.48533
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.3251e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-2*a1*(x-a2))-2*exp(-a1*(x-a2)))
+Initial guesses:
+	a0 = 0.0673861
+	a1 = 0.727694
+	a2 = 4.48533
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.32509e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-2*a1*(x-a2))-2*exp(-a1*(x-a2)))
+Initial guesses:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.32509e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-2*a1*(x-a2))-2*exp(-a1*(x-a2)))
+Initial guesses:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.32509e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-2*a1*(x-a2))-2*exp(-a1*(x-a2)))
+Initial guesses:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.32509e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-2*a1*(x-a2))-2*exp(-a1*(x-a2)))
+Initial guesses:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+
+Chi-square: 0.000219813
+Correlation coefficient: 0.999423
+RMS relative error: 7.32509e+09
+Theil U coefficent: 0.0358099
+Fitting with formula: y =a0*(exp(-2*a1*(x-a2))-2*exp(-a1*(x-a2)))+a3
+Initial guesses:
+	a0 = 0.0673861
+	a1 = 0.727695
+	a2 = 4.48532
+	a3 = 0.00436782
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 0.0729888
+	a1 = 0.701265
+	a2 = 4.50676
+	a3 = 0.00436777
+
+Chi-square: 9.00846e-05
+Correlation coefficient: 0.999732
+RMS relative error: 2.32307e+08
+Theil U coefficent: 0.0229246
+Fitting with formula: y =a0/x^12
+Initial guesses:
+	a0 = 0.0729888
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 7.37187
+
+Chi-square: 1.3726
+Correlation coefficient: 0.891962
+RMS relative error: 0.999997
+Theil U coefficent: 0.999976
+Fitting with formula: y =a0/x^6
+Initial guesses:
+	a0 = -1
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -328.08
+
+Chi-square: 0.172786
+Correlation coefficient: 0.909852
+RMS relative error: 0.791989
+Theil U coefficent: 0.427998
+Fitting with formula: y =a0/x^a1
+Initial guesses:
+	a0 = -328.08
+	a1 = 0.701265
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = -9.69828
+	a1 = 2.84247
+
+Chi-square: 0.00654251
+Correlation coefficient: 0.995441
+RMS relative error: 1.0286
+Theil U coefficent: 0.0832836
+Fitting with formula: y =a0/x^a1
+Initial guesses:
+	a0 = 9.69828
+	a1 = 2.84247
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 121.648
+	a1 = 4.85158
+
+Chi-square: 0.00381505
+Correlation coefficient: 0.998725
+RMS relative error: 10.6075
+Theil U coefficent: 0.052719
+Fitting with formula: y =a0/x^5-a1/x^3
+Initial guesses:
+	a0 = 121.648
+	a1 = 10
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 160.165
+	a1 = 12.9644
+
+Chi-square: 0.00400296
+Correlation coefficient: 0.989751
+RMS relative error: 27.2272
+Theil U coefficent: 0.152856
+Fitting with formula: y =a0/x^6-a1/x^3
+Initial guesses:
+	a0 = 160.165
+	a1 = 12.9644
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 369.805
+	a1 = 8.94113
+
+Chi-square: 0.00465545
+Correlation coefficient: 0.986233
+RMS relative error: 20.6612
+Theil U coefficent: 0.164843
+Fitting with formula: y =a0/x^6-a1/x^3-a2/x
+Initial guesses:
+	a0 = 369.805
+	a1 = 8.94113
+	a2 = 1
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 375.396
+	a1 = 9.25618
+	a2 = -0.0118972
+
+Chi-square: 0.0046352
+Correlation coefficient: 0.986197
+RMS relative error: 18.8072
+Theil U coefficent: 0.164485
+Fitting with formula: y =a0/x^6-a1/x^3-a2/x
+Initial guesses:
+	a0 = 375.396
+	a1 = 9.25618
+	a2 = -0.0118972
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 137.894
+	a1 = 17.9783
+	a2 = -0.169223
+
+Chi-square: 0.000137586
+Correlation coefficient: 0.999878
+RMS relative error: 0.0889788
+Theil U coefficent: 0.0120774
+Fitting with formula: y =a0/x^6-a1/x^3-a2/x
+Initial guesses:
+	a0 = 137.894
+	a1 = 17.9783
+	a2 = -0.169223
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 375.396
+	a1 = 9.25618
+	a2 = -0.0118972
+
+Chi-square: 0.0046352
+Correlation coefficient: 0.986197
+RMS relative error: 18.8072
+Theil U coefficent: 0.164485
+Fitting with formula: y =a0/x^a3-a1/x^a4-a2/x
+Initial guesses:
+	a0 = 375.396
+	a1 = 9.25618
+	a2 = -0.0118972
+	a3 = 8
+	a4 = 4
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 114.983
+	a1 = 66.6806
+	a2 = -0.615587
+	a3 = 3.25512
+	a4 = 2.75324
+
+Chi-square: 0.000418641
+Correlation coefficient: 0.998755
+RMS relative error: 9.4282
+Theil U coefficent: 0.0494324
+Fitting with formula: y =a0/x^a3-a1/x^a4-a2/x
+Initial guesses:
+	a0 = 114.983
+	a1 = 66.6806
+	a2 = 1
+	a3 = 3.25512
+	a4 = 2.75324
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 135.644
+	a1 = 99.1584
+	a2 = 0.503684
+	a3 = 4.23708
+	a4 = 4.23478
+
+Chi-square: 0.0507419
+Correlation coefficient: 0.905299
+RMS relative error: 104.884
+Theil U coefficent: 0.54422
+Fitting with formula: y =a0/x^a3-a1/x^a4-a2/x
+Initial guesses:
+	a0 = 135.644
+	a1 = 99.1584
+	a2 = 0.503684
+	a3 = 4.23708
+	a4 = 4.23478
+Tolerance = 0.0001
+[Error] Divide by zero
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 128.643
+	a1 = 80.2976
+	a2 = -0.607736
+	a3 = 3.22559
+	a4 = 2.7921
+
+Chi-square: 0.000417463
+Correlation coefficient: 0.998758
+RMS relative error: 9.32025
+Theil U coefficent: 0.0493628
+Fitting with formula: y =a0/x^a3-a1/x^a4-a2/x
+Initial guesses:
+	a0 = 128.643
+	a1 = 80.2976
+	a2 = -0.607736
+	a3 = 3.22559
+	a4 = 2.7921
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 128.661
+	a1 = 80.3666
+	a2 = -0.608687
+	a3 = 3.22431
+	a4 = 2.79141
+
+Chi-square: 0.000417441
+Correlation coefficient: 0.998759
+RMS relative error: 9.34433
+Theil U coefficent: 0.0493615
+[Error] Initial values must be within bounds
+Fitting with formula: y =a0/x^a3-a1/x^a4-a2/x
+Initial guesses:
+	a0 = 128.661
+	a1 = 80.3666
+	a2 = -1
+	a3 = 3.22431
+	a4 = 2.79141
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 63.1401
+	a1 = 10.8487
+	a2 = -0.901639
+	a3 = 3.77742
+	a4 = 2.07348
+
+Chi-square: 0.000478982
+Correlation coefficient: 0.998576
+RMS relative error: 11.5642
+Theil U coefficent: 0.052875
+Fitting with formula: y =a0/x^a2-a1/x^a3+1/x
+Initial guesses:
+	a0 = 63.1401
+	a1 = 10.8487
+	a2 = 4
+	a3 = 2
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 63.3506
+	a1 = 8.77585
+	a2 = 3.88939
+	a3 = 1.94791
+
+Chi-square: 0.000496055
+Correlation coefficient: 0.998525
+RMS relative error: 11.7151
+Theil U coefficent: 0.0538091
+Fitting with formula: y =a0/x^a2-a1/x^a3+1/x
+Initial guesses:
+	a0 = 63.3506
+	a1 = 8.77585
+	a2 = 8
+	a3 = 4
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 63.3491
+	a1 = 8.77635
+	a2 = 3.88933
+	a3 = 1.94793
+
+Chi-square: 0.000496055
+Correlation coefficient: 0.998525
+RMS relative error: 11.7154
+Theil U coefficent: 0.0538091
+Fitting with formula: y =a0/x^4-a1/x^2+1/x
+Initial guesses:
+	a0 = 63.3491
+	a1 = 8.77635
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 73.1899
+	a1 = 9.46076
+
+Chi-square: 0.000891791
+Correlation coefficient: 0.997714
+RMS relative error: 19.0193
+Theil U coefficent: 0.0721477
+Fitting with formula: y =a0/x^12-a1/x^6+1/x
+Initial guesses:
+	a0 = 73.1899
+	a1 = 9.46076
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 464229
+	a1 = 860.2
+
+Chi-square: 0.875767
+Correlation coefficient: 0.178607
+RMS relative error: 217.519
+Theil U coefficent: 2.26092
+Fitting with formula: y =a0/x^2-a1/x^1+1/x
+Initial guesses:
+	a0 = 464229
+	a1 = 860.2
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 3.33572
+	a1 = 1.76671
+
+Chi-square: 0.0832431
+Correlation coefficient: 0.714562
+RMS relative error: 90.595
+Theil U coefficent: 0.697052
+Fitting with formula: y =a0/x^2-a1/x^1+1/x
+Initial guesses:
+	a0 = 4
+	a1 = 2
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 3.33572
+	a1 = 1.76671
+
+Chi-square: 0.0832431
+Correlation coefficient: 0.714562
+RMS relative error: 90.595
+Theil U coefficent: 0.697052
+Fitting with formula: y =a0/x^4-a1/x^2+1/x
+Initial guesses:
+	a0 = 100
+	a1 = 10
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 73.1899
+	a1 = 9.46076
+
+Chi-square: 0.000891791
+Correlation coefficient: 0.997714
+RMS relative error: 19.0193
+Theil U coefficent: 0.0721477
+Fitting with formula: y =a0*(a1/x)^4-a0*(a1/x)^2+1/x
+Initial guesses:
+	a0 = 73.1899
+	a1 = 3
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 1.22293
+	a1 = 2.78139
+
+Chi-square: 0.000891791
+Correlation coefficient: 0.997714
+RMS relative error: 19.0193
+Theil U coefficent: 0.0721477
+Fitting with formula: y =a0*(a1/x)^8-a0*(a1/x)^4+1/x
+Initial guesses:
+	a0 = 1.22293
+	a1 = 2.78139
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 1.61103
+	a1 = 2.87289
+
+Chi-square: 0.420334
+Correlation coefficient: 0.554186
+RMS relative error: 191.652
+Theil U coefficent: 1.56635
+Fitting with formula: y =a0*(a1/x)^6-a0*(a1/x)^3+1/x
+Initial guesses:
+	a0 = 1.61103
+	a1 = 2.87289
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 1.4942
+	a1 = 2.8727
+
+Chi-square: 0.14432
+Correlation coefficient: 0.806692
+RMS relative error: 135.229
+Theil U coefficent: 0.917813
+Fitting with formula: y =a0*(a1/x)^4-a0*(a1/x)^2+1/x
+Initial guesses:
+	a0 = 1.4942
+	a1 = 2.8727
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 1.22293
+	a1 = 2.78139
+
+Chi-square: 0.000891791
+Correlation coefficient: 0.997714
+RMS relative error: 19.0193
+Theil U coefficent: 0.0721477
+Fitting with formula: y =a0*(a1/x)^4-a0*(a1/x)^2+1/x
+Initial guesses:
+	a0 = 1.22293
+	a1 = 2.78139
+Tolerance = 0.0001
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 1.22293
+	a1 = 2.78139
+
+Chi-square: 0.000891791
+Correlation coefficient: 0.997714
+RMS relative error: 19.0193
+Theil U coefficent: 0.0721477
+[Error] Can't write to file /home/garashch/Work/doe22/Na2Cl-fit, check permissions!
+[Error] Can't write to file //home/garashch/Work/doe22/Na2Cl-fit, check permissions!
